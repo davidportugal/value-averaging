@@ -139,7 +139,7 @@ const ValueAveraging = () => {
     <Container>
       <div style={{ paddingLeft: 20, paddingTop: 20 }}>
         <div style={{ fontWeight: "bold", fontSize: 20 }}>
-          3% VALUE AVERAGING STRATEGY FOR 2x LEVERAGED INDEX (SPUU) AND 3x LEVERAGED INDEX (SPXL) ON THE S&P500 (IVV)
+          X% VALUE AVERAGING STRATEGY FOR 2x LEVERAGED INDEX (SPUU) AND 3x LEVERAGED INDEX (SPXL) ON THE S&P500 (IVV)
         </div>
         <div style={{ paddingTop: 15 }}>
           This project is meant to compare the performance of said strategy over
