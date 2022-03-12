@@ -150,7 +150,7 @@ const ValueAveraging = () => {
       {(isLoading && <div>LOADING DATA</div>) || (
         <div>
           <div style={{ paddingTop: 30, fontSize: 24, fontWeight: "bold" }}>
-            MONTHLY RESULTS - 3% GROWTH
+            MONTHLY RESULTS - 1% GROWTH
           </div>
           <div style={{ paddingTop: 20, fontSize: 18, fontWeight: "bold" }}>
             DIREXION DAILY S&P 500 BULL 2x (SPUU)
