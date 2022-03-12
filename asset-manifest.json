@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/value-averaging/static/css/main.06b1d138.css",
-    "main.js": "/value-averaging/static/js/main.945fd7b9.js",
+    "main.js": "/value-averaging/static/js/main.ddd398df.js",
     "static/js/787.4233a10d.chunk.js": "/value-averaging/static/js/787.4233a10d.chunk.js",
     "static/media/IVV.csv": "/value-averaging/static/media/IVV.72f5a8787d6254bb62af.csv",
     "static/media/SPXL.csv": "/value-averaging/static/media/SPXL.f4018ec7f7835aafdf2a.csv",
@@ -9,11 +9,11 @@
     "static/media/logo.svg": "/value-averaging/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/value-averaging/index.html",
     "main.06b1d138.css.map": "/value-averaging/static/css/main.06b1d138.css.map",
-    "main.945fd7b9.js.map": "/value-averaging/static/js/main.945fd7b9.js.map",
+    "main.ddd398df.js.map": "/value-averaging/static/js/main.ddd398df.js.map",
     "787.4233a10d.chunk.js.map": "/value-averaging/static/js/787.4233a10d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.06b1d138.css",
-    "static/js/main.945fd7b9.js"
+    "static/js/main.ddd398df.js"
   ]
 }
